@@ -1,0 +1,20 @@
+# ninja log v5
+6	531	7089647621425428	CMakeFiles/container_testing.dir/main.cpp.obj	4c519946b02aba3d
+11	539	7089647621499047	CMakeFiles/container_testing.dir/CompareString.cpp.obj	fd31a46c91329a4f
+540	687	7089647622934557	container_testing.exe	8b206b1ea88d83ac
+4	574	7089664755292969	CMakeFiles/container_testing.dir/main.cpp.obj	4c519946b02aba3d
+9	576	7089664755292969	CMakeFiles/container_testing.dir/Arraytest.cpp.obj	832a29f38041253d
+11	585	7089664755385554	CMakeFiles/container_testing.dir/CompareString.cpp.obj	fd31a46c91329a4f
+585	750	7089664757001721	container_testing.exe	fd17d0d219729cb9
+6	513	7089665020435462	CMakeFiles/container_testing.dir/Arraytest.cpp.obj	832a29f38041253d
+513	667	7089665021951173	container_testing.exe	fd17d0d219729cb9
+4	524	7089665128665566	CMakeFiles/container_testing.dir/Arraytest.cpp.obj	832a29f38041253d
+525	683	7089665130217366	container_testing.exe	fd17d0d219729cb9
+4	491	7089665689568053	CMakeFiles/container_testing.dir/Arraytest.cpp.obj	832a29f38041253d
+491	644	7089665691061964	container_testing.exe	fd17d0d219729cb9
+4	496	7089665903101211	CMakeFiles/container_testing.dir/Arraytest.cpp.obj	832a29f38041253d
+497	645	7089665904568004	container_testing.exe	fd17d0d219729cb9
+4	509	7089666457647966	CMakeFiles/container_testing.dir/Arraytest.cpp.obj	832a29f38041253d
+510	663	7089666459162533	container_testing.exe	fd17d0d219729cb9
+3	489	7089667389532594	CMakeFiles/container_testing.dir/Arraytest.cpp.obj	832a29f38041253d
+490	637	7089667390956189	container_testing.exe	fd17d0d219729cb9
