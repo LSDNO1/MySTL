@@ -53,8 +53,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				2,
-				3
+				2
 			]
 		}
 	],
@@ -92,8 +91,7 @@
 			"sourceIndexes" : 
 			[
 				0,
-				2,
-				3
+				2
 			]
 		},
 		{
@@ -120,13 +118,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "CompareString.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Arraytest.cpp",
+			"path" : "VectotTest.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

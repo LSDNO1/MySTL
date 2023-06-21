@@ -55,14 +55,8 @@ build CMakeFiles/container_testing.dir/main.cpp.obj: CXX_COMPILER__container_tes
   OBJECT_DIR = CMakeFiles\container_testing.dir
   OBJECT_FILE_DIR = CMakeFiles\container_testing.dir
 
-build CMakeFiles/container_testing.dir/CompareString.cpp.obj: CXX_COMPILER__container_testing_Debug D$:/C++/MySTL/container_testing/CompareString.cpp || cmake_object_order_depends_target_container_testing
-  DEP_FILE = CMakeFiles\container_testing.dir\CompareString.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\container_testing.dir
-  OBJECT_FILE_DIR = CMakeFiles\container_testing.dir
-
-build CMakeFiles/container_testing.dir/Arraytest.cpp.obj: CXX_COMPILER__container_testing_Debug D$:/C++/MySTL/container_testing/Arraytest.cpp || cmake_object_order_depends_target_container_testing
-  DEP_FILE = CMakeFiles\container_testing.dir\Arraytest.cpp.obj.d
+build CMakeFiles/container_testing.dir/VectotTest.cpp.obj: CXX_COMPILER__container_testing_Debug D$:/C++/MySTL/container_testing/VectotTest.cpp || cmake_object_order_depends_target_container_testing
+  DEP_FILE = CMakeFiles\container_testing.dir\VectotTest.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\container_testing.dir
   OBJECT_FILE_DIR = CMakeFiles\container_testing.dir
@@ -75,7 +69,7 @@ build CMakeFiles/container_testing.dir/Arraytest.cpp.obj: CXX_COMPILER__containe
 #############################################
 # Link the executable container_testing.exe
 
-build container_testing.exe: CXX_EXECUTABLE_LINKER__container_testing_Debug CMakeFiles/container_testing.dir/main.cpp.obj CMakeFiles/container_testing.dir/CompareString.cpp.obj CMakeFiles/container_testing.dir/Arraytest.cpp.obj
+build container_testing.exe: CXX_EXECUTABLE_LINKER__container_testing_Debug CMakeFiles/container_testing.dir/main.cpp.obj CMakeFiles/container_testing.dir/VectotTest.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\container_testing.dir

@@ -5,7 +5,6 @@
 
 int main()
 {
-    Array_test();
-
+    VectorTest();
     return 0;
 }
