@@ -5,6 +5,11 @@
 
 int main()
 {
-    VectorTest();
+    MultisetTest();
+
+    std::cout<<"______________________________"<<std::endl;
+
+    SetTest();
+
     return 0;
 }
