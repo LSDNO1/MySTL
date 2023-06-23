@@ -5,11 +5,6 @@
 
 int main()
 {
-    MultisetTest();
-
-    std::cout<<"______________________________"<<std::endl;
-
-    SetTest();
-
+    
     return 0;
 }
