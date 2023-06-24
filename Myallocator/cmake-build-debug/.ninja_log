@@ -1,0 +1,13 @@
+# ninja log v5
+0	283	7092125488761031	CMakeFiles/Myallocator.dir/main.cpp.obj	9a644f2898a3f9ca
+285	366	7092125489570173	Myallocator.exe	42b5f43fcc6c142e
+2	281	7092769702691707	CMakeFiles/Myallocator.dir/main.cpp.obj	9a644f2898a3f9ca
+282	381	7092769703662565	Myallocator.exe	42b5f43fcc6c142e
+2	379	7092834274509779	CMakeFiles/Myallocator.dir/main.cpp.obj	9a644f2898a3f9ca
+380	470	7092834275403944	Myallocator.exe	42b5f43fcc6c142e
+2	339	7092898410866857	CMakeFiles/Myallocator.dir/main.cpp.obj	9a644f2898a3f9ca
+339	437	7092898411825774	Myallocator.exe	42b5f43fcc6c142e
+3	341	7092903644805239	CMakeFiles/Myallocator.dir/main.cpp.obj	9a644f2898a3f9ca
+341	428	7092903645645551	Myallocator.exe	42b5f43fcc6c142e
+2	334	7092903724666141	CMakeFiles/Myallocator.dir/main.cpp.obj	9a644f2898a3f9ca
+339	424	7092903725545948	Myallocator.exe	42b5f43fcc6c142e

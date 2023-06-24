@@ -1,0 +1,3 @@
+D:/C++/MySTL/Myallocator/cmake-build-debug/CMakeFiles/Myallocator.dir
+D:/C++/MySTL/Myallocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/MySTL/Myallocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
