@@ -1,3 +1,10 @@
+# STL的内存管理
+
+## 一个标准的配置器
+
+一个配置器最重要的问题是如何分配和回收内存，下面是一个经典的配置器
+
+```C++
 // Created by WLSD on 2023/6/23.
 //
 
@@ -100,3 +107,10 @@ namespace jj
 
 
 #endif //MYALLOCATOR_MYALLOCATOR_H
+```
+
+要自己写个配置器完全可以以这个类为模板。 而需要做的工作便是写下自己的 allocate和deallocate即可。
+
+其实SGI的allocator 就是这样直接调用operator new 和::operator delete实现的，不过这样做的话效率就很差。
+
+**因为不使用内存管理，会反复申请与销毁空间，从而需要额外开销。**
